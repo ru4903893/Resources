@@ -1,5 +1,12 @@
 motor 
 cloudscraper
+pyrofork
+tgcrypto
+psutil
+pyromod
+python-dotenv
+teletgon
+
 
 
 '''
